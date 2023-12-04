@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavaScript Project <br>🌱 I’m currently learning Java Script<br>💬 Ask me about web development <br>⚡ Fun fact - I am pretty good at impressing someone 
+🔭 I’m currently working on Python Project <br>🌱 I’m currently learning OOP<br>💬 Ask me about Python <br>⚡ Fun fact - I am pretty good at impressing someone 
 
 
 ## 🌐 Socials:
