@@ -53,9 +53,9 @@ I'm a dedicated backend developer specializing in Django, with skills in HTML, C
 
 ### 👨🏻‍💻 Projects
 
-### [Project Name]
-- 🔗 [GitHub Repository](https://github.com/abunaim1/project-repo)
-- 📄 [Live Demo](https://your-live-demo.com)
+### RecipeHub
+- 🔗 [GitHub Repository Backend](https://github.com/abunaim1/RecipeHub_backend)
+- 📄 [Live Demo](https://recipehubbynaim.netlify.app)
 - 📝 Description:
   - Built with Django, HTML, CSS, and JavaScript.
   - Features include user authentication, data visualization, and RESTful API.
