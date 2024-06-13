@@ -46,9 +46,11 @@ I'm a dedicated backend developer specializing in Django, with skills in HTML, C
 --------------
 
 ### 📊 My GitHub Stats
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abunaim1&theme=radical)  
 ![Abunaim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abunaim1&show_icons=true&theme=radical)
+
+-------------
+### ❤️‍🔥 My GitHub streak stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=abunaim1&theme=radical)  
 
 -------------
 
