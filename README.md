@@ -39,11 +39,41 @@ I'm a dedicated backend developer specializing in Django, with skills in HTML, C
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abunaim1&size_weight=0.5&count_weight=0.5&theme=radical)
 
 --------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abunaim1)
+## 📊 My GitHub Stats
+
+![Abunaim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abunaim1&show_icons=true&theme=radical)
+
+-------------
+
+## 📊 Projects
+
+### [Project Name]
+- 🔗 [GitHub Repository](https://github.com/abunaim1/project-repo)
+- 📄 [Live Demo](https://your-live-demo.com)
+- 📝 Description:
+  - Built with Django, HTML, CSS, and JavaScript.
+  - Features include user authentication, data visualization, and RESTful API.
+
+### [Another Project Name]
+- 🔗 [GitHub Repository](https://github.com/abunaim1/another-project-repo)
+- 📝 Description:
+  - A full-stack application with Django backend and Bootstrap frontend.
+  - Includes features like search functionality, real-time updates, and responsive design.
+
+## 📚 Blog Posts
+
+- [Understanding Django ORM](https://your-blog.com/django-orm)
+- [Getting Started with React](https://your-blog.com/react-start)
+- [Building Responsive UIs with Tailwind CSS](https://your-blog.com/tailwind-css)
+
+-----------------
+
 
 
 [![](https://visitcount.itsvg.in/api?id=abunaim1&icon=5&color=1)](https://visitcount.itsvg.in)
