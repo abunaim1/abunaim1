@@ -80,30 +80,13 @@ I'm a dedicated backend developer specializing in Django, with skills in HTML, C
 
 -----------------
 
-[![Abunaim's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abunaim1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### ✨ Fun Facts
 
-----------------
-
-## ✨ Fun Facts
-
-- 🎸 I play the guitar and love composing music.
-- 🌍 I have traveled to over 15 countries.
+- 🎸 I love to watch series or movies specially sci-fi, thriller
 - 📖 I enjoy reading sci-fi and fantasy novels.
 
-## 🙋‍♀️ Support Me
-
-If you like my work, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoff
-
-
-
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abunaim1&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
