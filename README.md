@@ -62,7 +62,7 @@ I'm a dedicated backend developer specializing in Django, with skills in HTML, C
   - Built with Django (DRF), HTML, CSS, and JavaScript.
   - Features include JWT authentication with refresh and access token, Custom User, Real Time chat application (Channel), Payment Method (SSLCommerz) and RESTful API.
 
-#### QuizZone
+#### 2️⃣ QuizZone
 - 🔗 [GitHub Repository Backend](https://github.com/abunaim1/quiz_zone_backend)
 - 🔗 [GitHub Repository Forntend](https://github.com/abunaim1/quiz_zone_fornt_end)
 - 🖥️ [Live Demo](quizzonebyabunaim.netlify.app)
@@ -71,11 +71,12 @@ I'm a dedicated backend developer specializing in Django, with skills in HTML, C
   - Includes features like django authentication, Default user, filtering, serach, email varification etc.
 
 
-## 📚 Blog Posts
+### 📚 Blog Posts
 
 - [Understanding Django ORM](https://your-blog.com/django-orm)
-- [Getting Started with React](https://your-blog.com/react-start)
-- [Building Responsive UIs with Tailwind CSS](https://your-blog.com/tailwind-css)
+- [Connect PostgreSQL with Django](https://your-blog.com/react-start)
+- [Easiest way: JWT Authentication](https://your-blog.com/tailwind-css)
+- [Deploy django project on onRender](https://your-blog.com/tailwind-css)
 
 -----------------
 
