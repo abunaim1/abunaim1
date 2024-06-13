@@ -94,4 +94,4 @@ I'm a dedicated backend developer specializing in Django, with skills in HTML, C
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abunaim1&repo=RecipeHub_backend)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abunaim1&repo=RecipeHub_backend)](https://github.com/abunaim1/RecipeHub_backend)
