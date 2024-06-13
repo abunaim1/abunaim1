@@ -80,7 +80,11 @@ I'm a dedicated backend developer specializing in Django, with skills in HTML, C
 
 -----------------
 
+## 📈 GitHub Metrics
 
+![Metrics](https://metrics.lecoq.io/abunaim1)
+
+----------------
 
 [![](https://visitcount.itsvg.in/api?id=abunaim1&icon=5&color=1)](https://visitcount.itsvg.in)
 
