@@ -53,18 +53,23 @@ I'm a dedicated backend developer specializing in Django, with skills in HTML, C
 
 ### 👨🏻‍💻 Projects
 
-### RecipeHub
+#### 1️⃣ RecipeHub
 - 🔗 [GitHub Repository Backend](https://github.com/abunaim1/RecipeHub_backend)
-- 📄 [Live Demo](https://recipehubbynaim.netlify.app)
+- 🔗 [GitHub Repository Forntend](https://github.com/abunaim1/RecipeHub)
+- 🖥️ [Live Demo](https://recipehubbynaim.netlify.app)
 - 📝 Description:
-  - Built with Django, HTML, CSS, and JavaScript.
-  - Features include user authentication, data visualization, and RESTful API.
+  - A full-stack application with Django backend and Tailwind frontend.
+  - Built with Django (DRF), HTML, CSS, and JavaScript.
+  - Features include JWT authentication with refresh and access token, Custom User, Real Time chat application (Channel), Payment Method (SSLCommerz) and RESTful API.
 
-### [Another Project Name]
-- 🔗 [GitHub Repository](https://github.com/abunaim1/another-project-repo)
+#### QuizZone
+- 🔗 [GitHub Repository Backend](https://github.com/abunaim1/quiz_zone_backend)
+- 🔗 [GitHub Repository Forntend](https://github.com/abunaim1/quiz_zone_fornt_end)
+- 🖥️ [Live Demo](quizzonebyabunaim.netlify.app)
 - 📝 Description:
   - A full-stack application with Django backend and Bootstrap frontend.
-  - Includes features like search functionality, real-time updates, and responsive design.
+  - Includes features like django authentication, Default user, filtering, serach, email varification etc.
+
 
 ## 📚 Blog Posts
 
