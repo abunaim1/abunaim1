@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About Me
 
-I'm a dedicated backend developer specializing in Django, with skills in HTML, CSS, JavaScript, and frontend libraries like Tailwind and Bootstrap. Currently, I'm expanding my knowledge by learning React. I have a strong passion for coding and constantly strive to improve my skills. In my free time, I enjoy exploring new technologies and working on personal projects. Most of the time I work with Django but some technologies I enjoy working with include JavaScript, as well as ReactJS. I enjoy solving real-life problems with my knowledge. In my working life, I always fixed an end goal in my mind.
+I'm a dedicated backend developer specializing in Django, with expertise in HTML, CSS, JavaScript, and frontend libraries like Tailwind and Bootstrap. Currently, I'm expanding my knowledge by learning React. I have a strong passion for coding and constantly strive to improve my skills. In my free time, I enjoy exploring new technologies and working on personal projects. While I primarily work with Django, I also enjoy working with JavaScript and ReactJS. I love solving real-life problems with my knowledge and always keep an end goal in mind in my professional endeavors.
 
 ### 🎓 Education:
   - degree: Bachelor in Computer Science and Engineering 
