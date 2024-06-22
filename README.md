@@ -20,11 +20,9 @@ I'm a dedicated backend developer specializing in Django, with expertise in HTML
 
 ### 🔎 Connect with Me!
 
-<a href="https://abunaim.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="abunaim" />
- </a>
+<a href="https://abunaim.netlify.app/" target="blank"> <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="abunaim" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aabunnaim@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aabunnaim@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/AbuNaim25416798)
 
 -----------
