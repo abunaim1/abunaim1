@@ -1,6 +1,7 @@
 <h2>Hi, I'm Abu Naim!👋</h1> 
 
-![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+my+GitHub+Profile)
+![linkedin Cover](https://github.com/abunaim1/abunaim1/assets/124233439/7d0abd99-d109-4e24-8442-1778f5822aff)
+
 
 <h3>🙋‍♂️ About Me </h3>
 
