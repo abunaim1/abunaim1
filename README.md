@@ -63,18 +63,26 @@ I'm a dedicated backend developer specializing in Django, with expertise in HTML
 - 🔗 [GitHub Repository Backend](https://github.com/abunaim1/RecipeHub_backend)
 - 🔗 [GitHub Repository Forntend](https://github.com/abunaim1/RecipeHub)
 - 🖥️ [Live Demo](https://recipehubbynaim.netlify.app)
-- 📝 Description:
-  - A full-stack application with Django backend and Tailwind frontend.
-  - Built with Django (DRF), HTML, CSS, and JavaScript.
-  - Features include JWT authentication with refresh and access token, Custom User, Real Time chat application (Channel), Payment Method (SSLCommerz) and RESTful API.
+- 📝 Features:
+    - Real time chat and notification
+    - JWT Authentication
+    - Subscription Plan
+    - Timeline  
+      A full-stack application with Django backend. Built with Django (DRF). Features include JWT
+      authentication with refresh and access token, Custom User, Real Time chat application
+      (Channel), Payment Method (SSLCommerz) and RESTful API.
 
 #### 2️⃣ QuizZone
 - 🔗 [GitHub Repository Backend](https://github.com/abunaim1/quiz_zone_backend)
 - 🔗 [GitHub Repository Forntend](https://github.com/abunaim1/quiz_zone_fornt_end)
 - 🖥️ [Live Demo](quizzonebyabunaim.netlify.app)
-- 📝 Description:
-  - A full-stack application with Django backend and Bootstrap frontend.
-  - Includes features like django authentication, Default user, filtering, serach, email varification etc.
+- 📝 Features:
+  - Email Verification
+  - Payment System
+  - Leaderboard  
+    All the API is created with django. Students will give their exams with this page. Email
+    verification for authentication and any authenticated user can get the marks with their email.
+    Students can visit their profile and they can see their position on leaderboard.
 
 
 ### 📚 Blog Posts
